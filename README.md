@@ -23,11 +23,26 @@ Contributions are always welcome! Please take a look at the contribution guideli
 
 - [PCT](https://github.com/Riverside-Software/pct) - A set of Ant tasks for the OpenEdge environment, you should/must use it !
 - [latte](https://github.com/progress/latte) - Open Source Gradle Plugin (forked from [grabl](https://gitlab.com/grabl/grabl)) to build openedge project, based on PCT **[Depracated]**
-- [OEDF](https://community.progress.com/s/question/0D54Q00008JWqzR/introducing-openedge-devops-framework-10) - Non Open Source fork of latte 😡, developped by Progress. **[Proprietary] [Free]**
+- [OEDF](https://community.progress.com/s/question/0D54Q00008JWqzR/introducing-openedge-devops-framework-10) - Non Open Source fork of latte 😡, developed by Progress. **[Proprietary] [Free]**
+
+## Tools ans libraries
+
+- [ABLUnit](https://docs.progress.com/bundle/openedge-developer-studio-olh-117/page/Overview-of-ABLUnit-testing-framework.html) - Unit testing framework for the ABL
+- [OEUnit](https://github.com/CameronWills/OEUnit) - Unit testing framework for OpenEdge ABL before the ABLUnit 😴
+- [OEMock](https://github.com/msabbott/OEMock) - Create mock for test with OEUnit 😴
+- [log4oe](https://github.com/msabbott/log4oe) - Logging framework for OpenEdge ABL based on log4j 😴
+
+
+- [Smart Component Library](https://www.consultingwerk.com/products/smartcomponent-library) - The OpenEdge modernization frameworg for Desktop, Web and Mobile by Consultingwerk **[$]**
+- [ProTop](https://wss.com/progress-openedge-monitoring-with-protop/) - Progress OpenEdge Monitoring tool by White Star Software **[$]**
+
+## Usefull resources
+
+- [Smart Component Library Documentation](https://www.consultingwerk.com/support/documentation) - Documentation of Smart Component Library (Jira, Class documentation...s)
 
 ## Openedge versions
 
-| Version | Fixs |
+| Version | Fixes |
 |---------|------|
 | [12.4](https://docs.progress.com/bundle/openedge-whats-new/page/Whats-New-in-OpenEdge-12.4.html)  | [12.4](https://docs.progress.com/bundle/openedge-product-notes/page/Issues-fixed-in-OpenEdge-12.4.html) |
 | [12.3](https://docs.progress.com/bundle/openedge-whats-new/page/Whats-New-in-OpenEdge-12.3.html)  | [12.3](https://docs.progress.com/bundle/openedge-product-notes/page/Issues-fixed-in-OpenEdge-12.4.html) |
