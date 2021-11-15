@@ -1,10 +1,13 @@
 # Awesome OpenEdge ABL [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-A collection of awesome libraries, tools, frameworks and software for OpenEdge ABL
+A collection of libraries, tools, frameworks and software for OpenEdge ABL
 
 Inspired by other awesome lists.
 
 Contributions are always welcome! Please take a look at the contribution guidelines and quality standard pages first. We accept proprietary and commercial software too.
 
+As you may notice, almost none of the resources on this list are published by Progress. 😢 
+
+If you think open source is a good idea, don't hesitate to submit the idea to Progress: https://openedge.ideas.aha.io/ideas
 
 ## IDE
 
@@ -22,23 +25,37 @@ Contributions are always welcome! Please take a look at the contribution guideli
 ## CI/CD
 
 - [PCT](https://github.com/Riverside-Software/pct) - A set of Ant tasks for the OpenEdge environment, you should/must use it !
+- [ABLDuck](https://github.com/spazzymoto/ablduck) OpenEdge automated documentation generation based on JSDuck (can be used with PCT)
 - [latte](https://github.com/progress/latte) - Open Source Gradle Plugin (forked from [grabl](https://gitlab.com/grabl/grabl)) to build openedge project, based on PCT **[Depracated]**
 - [OEDF](https://community.progress.com/s/question/0D54Q00008JWqzR/introducing-openedge-devops-framework-10) - Non Open Source fork of latte 😡, developed by Progress. **[Proprietary] [Free]**
 
 ## Tools ans libraries
 
+- [genoas](https://community.progress.com/s/question/0D54Q00007qckt1SAA/sample-program-to-generate-an-openapi-spec-file-from-a-catalog-file) - Generate OpenApi Specification from JSDO catalog
+- [DataDigger](https://github.com/patrickTingen/DataDigger) - A dynamic, open source dataviewer for your Progress / OpenEdge databases
+- [opendege-profiler-parser](https://github.com/BalticAmadeus/opendege-profiler-parser) - Progress OpenEdge Profiler data parsing to OpenTracing format by Baltic Amadeus
+- [Profiler Control Tool](https://community.progress.com/s/question/0D54Q00007qbvABSAY/profiler-control-tool) - Can be used to perform profiler analysis of a Progress based application. **[Deprecated]**
 - [ABLUnit](https://docs.progress.com/bundle/openedge-developer-studio-olh-117/page/Overview-of-ABLUnit-testing-framework.html) - Unit testing framework for the ABL
 - [OEUnit](https://github.com/CameronWills/OEUnit) - Unit testing framework for OpenEdge ABL before the ABLUnit 😴
 - [OEMock](https://github.com/msabbott/OEMock) - Create mock for test with OEUnit 😴
 - [log4oe](https://github.com/msabbott/log4oe) - Logging framework for OpenEdge ABL based on log4j 😴
-
 
 - [Smart Component Library](https://www.consultingwerk.com/products/smartcomponent-library) - The OpenEdge modernization frameworg for Desktop, Web and Mobile by Consultingwerk **[$]**
 - [ProTop](https://wss.com/progress-openedge-monitoring-with-protop/) - Progress OpenEdge Monitoring tool by White Star Software **[$]**
 
 ## Usefull resources
 
-- [Smart Component Library Documentation](https://www.consultingwerk.com/support/documentation) - Documentation of Smart Component Library (Jira, Class documentation...s)
+- [ADE-SourceCode](https://github.com/consultingwerk/ADE-Sourcecode) - Progress OpenEdge ADE Sourcecode uplaod by Consultingwerk 👍 (shouldn't that be done by Progress ? 😩)
+- [Smart Component Library Documentation](https://www.consultingwerk.com/support/documentation) - Documentation of Smart Component Library (Jira, Class documentation...)
+
+## Other
+
+- [GenericService](https://gitlab.com/rdroge/genericservice) - Generic way of exposing an 'industry standard' REST api from ABL using PASOE and Webhandlers.
+- [OpenEdgeAnt](https://github.com/KiltedKanuck/OpenEdgeAnt) - OpenEdge ANT build demo project
+- [OpenedgeGradle](https://github.com/KiltedKanuck/OpenEdgeGradle) - OpenEdge GRADLE build demo
+- [SampleApp](https://github.com/KiltedKanuck/SampleApp) - Sample app for deploy
+- [OEDoc-sample](https://github.com/clement-brodu/OEdoc-sample) - Sample Documentation Site generated with ABLDuck
+
 
 ## Openedge versions
 
@@ -52,3 +69,6 @@ Contributions are always welcome! Please take a look at the contribution guideli
 | 11.7 (LTS)  | [11.7.11](https://docs.progress.com/bundle/openedge-product-notes/page/Issues-fixed-in-OpenEdge-11.7.11.html) [11.7.10](https://docs.progress.com/bundle/openedge-product-notes/page/Issues-fixed-in-OpenEdge-11.7.10.html) [11.7.9](https://docs.progress.com/bundle/openedge-product-notes/page/Issues-fixed-in-OpenEdge-11.7.9.html) [11.7.8](https://docs.progress.com/bundle/openedge-product-notes/page/Issues-fixed-in-OpenEdge-11.7.8.html) [11.7.7](https://docs.progress.com/bundle/openedge-product-notes/page/Issues-fixed-in-OpenEdge-11.7.7.html) |
 
 
+Startup Parameters : [https://docs.progress.com/bundle/openedge-startup-and-parameter-reference-122/page/Introduction.html](https://docs.progress.com/bundle/openedge-startup-and-parameter-reference-122/page/Introduction.html)
+
+DotNet Compatibility : [https://knowledgebase.progress.com/articles/Article/000054406](https://knowledgebase.progress.com/articles/Article/000054406)
