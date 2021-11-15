@@ -45,7 +45,7 @@ If you think open source is a good idea, don't hesitate to submit the idea to Pr
 
 ## Usefull resources
 
-- [ADE-SourceCode](https://github.com/consultingwerk/ADE-Sourcecode) - Progress OpenEdge ADE Sourcecode uplaod by Consultingwerk 👍 (shouldn't that be done by Progress ? 😩)
+- [ADE-SourceCode](https://github.com/consultingwerk/ADE-Sourcecode) - Progress OpenEdge ADE Sourcecode uploaded by Consultingwerk 👍 (shouldn't that be done by Progress ? 😩)
 - [Smart Component Library Documentation](https://www.consultingwerk.com/support/documentation) - Documentation of Smart Component Library (Jira, Class documentation...)
 
 ## Other
