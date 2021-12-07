@@ -4,11 +4,12 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome), [awesome-dotnet]
 
 A collection of libraries, tools, frameworks and software for OpenEdge ABL
 
-Contributions are always welcome! Please take a look at the contribution guidelines and quality standard pages first. We accept proprietary and commercial software too.
+Contributions are always welcome! Please take a look at the contribution guidelines and quality standard pages first.
+We also accept proprietary and commercial software, as long as they offer a free trial version.
 
-As you may notice, almost none of the resources on this list are published by Progress. 😢 
+As you may notice, almost none of the resources on this list are published by Progress. 😢
 
-If you think open source is a good idea, don't hesitate to submit the idea to Progress: https://openedge.ideas.aha.io/ideas/OPENEDGE-I-976
+If you think open source is a good idea, don't hesitate to recommend it to to Progress: [https://openedge.ideas.aha.io/ideas/OPENEDGE-I-976](https://openedge.ideas.aha.io/ideas/OPENEDGE-I-976)
 
 ## IDE
 
@@ -21,8 +22,11 @@ If you think open source is a good idea, don't hesitate to submit the idea to Pr
 
 - [chriscamicas/vscode-abl](https://github.com/chriscamicas/vscode-abl) - Most popular Openedge plugin with Compiler, Debugger,...
 - [ezequielgandolfi/openedge-zext](https://github.com/ezequielgandolfi/openedge-zext) - Another Openedge plugin
+
 ### Notepad++
+
 - [3P : Progress Programmers Pal](http://jcaillon.github.io/3P/) - An OpenEdge ABL (formerly 4GL Progress) code editor / IDE running on notepad++
+
 ## CI/CD
 
 - [PCT](https://github.com/Riverside-Software/pct) - A set of Ant tasks for the OpenEdge environment, you should/must use it !
@@ -30,7 +34,7 @@ If you think open source is a good idea, don't hesitate to submit the idea to Pr
 - [latte](https://github.com/progress/latte) - Open Source Gradle Plugin (forked from [grabl](https://gitlab.com/grabl/grabl)) to build openedge project, based on PCT **[Depracated]**
 - [OEDF](https://community.progress.com/s/question/0D54Q00008JWqzR/introducing-openedge-devops-framework-10) - Non Open Source fork of latte 😡, developed by Progress. **[Proprietary] [Free]**
 
-## Tools ans libraries
+## Tools and libraries
 
 - [genoas](https://community.progress.com/s/question/0D54Q00007qckt1SAA/sample-program-to-generate-an-openapi-spec-file-from-a-catalog-file) - Generate OpenApi Specification from JSDO catalog
 - [DataDigger](https://github.com/patrickTingen/DataDigger) - A dynamic, open source dataviewer for your Progress / OpenEdge databases
@@ -40,7 +44,6 @@ If you think open source is a good idea, don't hesitate to submit the idea to Pr
 - [OEUnit](https://github.com/CameronWills/OEUnit) - Unit testing framework for OpenEdge ABL before the ABLUnit **[😴 inactive]**
 - [OEMock](https://github.com/msabbott/OEMock) - Create mock for test with OEUnit **[😴 inactive]**
 - [log4oe](https://github.com/msabbott/log4oe) - Logging framework for OpenEdge ABL based on log4j **[😴 inactive]**
-
 - [Smart Component Library](https://www.consultingwerk.com/products/smartcomponent-library) - The OpenEdge modernization frameworg for Desktop, Web and Mobile by Consultingwerk **[$]**
 - [ProTop](https://wss.com/progress-openedge-monitoring-with-protop/) - Progress OpenEdge Monitoring tool by White Star Software **[$]**
 
@@ -56,7 +59,6 @@ If you think open source is a good idea, don't hesitate to submit the idea to Pr
 - [OpenedgeGradle](https://github.com/KiltedKanuck/OpenEdgeGradle) - OpenEdge GRADLE build demo
 - [SampleApp](https://github.com/KiltedKanuck/SampleApp) - Sample app for deploy
 - [OEDoc-sample](https://github.com/clement-brodu/OEdoc-sample) - Sample Documentation Site generated with ABLDuck
-
 
 ## Openedge versions
 
