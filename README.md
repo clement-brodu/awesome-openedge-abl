@@ -1,13 +1,14 @@
 # Awesome OpenEdge ABL [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-A collection of libraries, tools, frameworks and software for OpenEdge ABL
 
-Inspired by other awesome lists.
+Inspired by [awesome](https://github.com/sindresorhus/awesome), [awesome-dotnet](https://github.com/quozd/awesome-dotnet), [awesome-dotnet-core](https://github.com/thangchung/awesome-dotnet-core)
+
+A collection of libraries, tools, frameworks and software for OpenEdge ABL
 
 Contributions are always welcome! Please take a look at the contribution guidelines and quality standard pages first. We accept proprietary and commercial software too.
 
 As you may notice, almost none of the resources on this list are published by Progress. 😢 
 
-If you think open source is a good idea, don't hesitate to submit the idea to Progress: https://openedge.ideas.aha.io/ideas
+If you think open source is a good idea, don't hesitate to submit the idea to Progress: https://openedge.ideas.aha.io/ideas/OPENEDGE-I-976
 
 ## IDE
 
@@ -36,9 +37,9 @@ If you think open source is a good idea, don't hesitate to submit the idea to Pr
 - [opendege-profiler-parser](https://github.com/BalticAmadeus/opendege-profiler-parser) - Progress OpenEdge Profiler data parsing to OpenTracing format by Baltic Amadeus
 - [Profiler Control Tool](https://community.progress.com/s/question/0D54Q00007qbvABSAY/profiler-control-tool) - Can be used to perform profiler analysis of a Progress based application. **[Deprecated]**
 - [ABLUnit](https://docs.progress.com/bundle/openedge-developer-studio-olh-117/page/Overview-of-ABLUnit-testing-framework.html) - Unit testing framework for the ABL
-- [OEUnit](https://github.com/CameronWills/OEUnit) - Unit testing framework for OpenEdge ABL before the ABLUnit 😴
-- [OEMock](https://github.com/msabbott/OEMock) - Create mock for test with OEUnit 😴
-- [log4oe](https://github.com/msabbott/log4oe) - Logging framework for OpenEdge ABL based on log4j 😴
+- [OEUnit](https://github.com/CameronWills/OEUnit) - Unit testing framework for OpenEdge ABL before the ABLUnit **[😴 inactive]**
+- [OEMock](https://github.com/msabbott/OEMock) - Create mock for test with OEUnit **[😴 inactive]**
+- [log4oe](https://github.com/msabbott/log4oe) - Logging framework for OpenEdge ABL based on log4j **[😴 inactive]**
 
 - [Smart Component Library](https://www.consultingwerk.com/products/smartcomponent-library) - The OpenEdge modernization frameworg for Desktop, Web and Mobile by Consultingwerk **[$]**
 - [ProTop](https://wss.com/progress-openedge-monitoring-with-protop/) - Progress OpenEdge Monitoring tool by White Star Software **[$]**
