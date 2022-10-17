@@ -64,6 +64,7 @@ If you think open source is a good idea, don't hesitate to recommend it to Progr
 
 | Version | Fixes |
 |---------|------|
+| [12.6](https://docs.progress.com/bundle/openedge-whats-new/page/Whats-New-in-OpenEdge-12.6.html)  | [12.6](https://docs.progress.com/bundle/openedge-product-notes/page/Issues-fixed-in-OpenEdge-12.6.html) |
 | [12.5](https://docs.progress.com/bundle/openedge-whats-new/page/Whats-New-in-OpenEdge-12.5.html)  | [12.5](https://docs.progress.com/bundle/openedge-product-notes/page/Issues-fixed-in-OpenEdge-12.5.html) |
 | [12.4](https://docs.progress.com/bundle/openedge-whats-new/page/Whats-New-in-OpenEdge-12.4.html)  | [12.4](https://docs.progress.com/bundle/openedge-product-notes/page/Issues-fixed-in-OpenEdge-12.4.html) |
 | [12.3](https://docs.progress.com/bundle/openedge-whats-new/page/Whats-New-in-OpenEdge-12.3.html)  | [12.3](https://docs.progress.com/bundle/openedge-product-notes/page/Issues-fixed-in-OpenEdge-12.4.html) |
