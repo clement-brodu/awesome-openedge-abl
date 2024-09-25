@@ -21,8 +21,12 @@ If you think open source is a good idea, don't hesitate to recommend it to Progr
 ### Visual Studio Code
 
 - [vscode-abl/vscode-abl](https://github.com/vscode-abl/vscode-abl) - Rich OpenEdge ABL support for Visual Studio Code, fork of chriscamicas/vscode-abl.
-- [chriscamicas/vscode-abl](https://github.com/chriscamicas/vscode-abl) - Openedge plugin with Compiler, Debugger,...
-- [ezequielgandolfi/openedge-zext](https://github.com/ezequielgandolfi/openedge-zext) - Another Openedge plugin
+- [BalticAmadeus/ProBro](https://github.com/BalticAmadeus/ProBro) - VSCode extension for Progress OpenEdge Database browsing
+- [BalticAmadeus/ProPeek](https://github.com/BalticAmadeus/ProPeek) - An extension for Progress Openedge Profiler.
+- [BalticAmadeus/AblFormatter](https://github.com/BalticAmadeus/AblFormatter) - VSCode extension for Progress OpenEdge code formatting.
+
+- [chriscamicas/vscode-abl](https://github.com/chriscamicas/vscode-abl) - Openedge plugin with Compiler, Debugger,... **[Depracated]**
+- [ezequielgandolfi/openedge-zext](https://github.com/ezequielgandolfi/openedge-zext) - Another Openedge plugin **[Depracated]**
 
 ### Notepad++
 
@@ -68,7 +72,7 @@ If you think open source is a good idea, don't hesitate to recommend it to Progr
 
 | Version | Fixes | Known Issues |
 |---------|------| ----- |
-| [12.8 (LTS)](https://docs.progress.com/bundle/openedge-whats-new/page/Whats-New-in-OpenEdge-12.8.html)  | [12.8.1](https://docs.progress.com/bundle/openedge-product-notes/page/Issues-fixed-in-OpenEdge-12.8.1.html) [12.8](https://docs.progress.com/bundle/openedge-product-notes/page/Issues-fixed-in-OpenEdge-12.8.html) | [12.8.1](https://docs.progress.com/en-US/bundle/openedge-product-notes/page/Known-issues-in-OpenEdge-12.8.1.html) [12.8](https://docs.progress.com/en-US/bundle/openedge-product-notes/page/Known-issues-in-OpenEdge-12.8.html) |
+| [12.8 (LTS)](https://docs.progress.com/bundle/openedge-whats-new/page/Whats-New-in-OpenEdge-12.8.html)  | [12.8.4](https://docs.progress.com/bundle/openedge-product-notes/page/Issues-fixed-in-OpenEdge-12.8.4.html) [12.8.3](https://docs.progress.com/bundle/openedge-product-notes/page/Issues-fixed-in-OpenEdge-12.8.3.html) [12.8.2](https://docs.progress.com/bundle/openedge-product-notes/page/Issues-fixed-in-OpenEdge-12.8.2.html) [12.8.1](https://docs.progress.com/bundle/openedge-product-notes/page/Issues-fixed-in-OpenEdge-12.8.1.html) [12.8](https://docs.progress.com/bundle/openedge-product-notes/page/Issues-fixed-in-OpenEdge-12.8.html) | [12.8.4](https://docs.progress.com/en-US/bundle/openedge-product-notes/page/Known-issues-in-OpenEdge-12.8.4.html) [12.8.3](https://docs.progress.com/en-US/bundle/openedge-product-notes/page/Known-issues-in-OpenEdge-12.8.3.html) [12.8.2](https://docs.progress.com/en-US/bundle/openedge-product-notes/page/Known-issues-in-OpenEdge-12.8.2.html) [12.8.1](https://docs.progress.com/en-US/bundle/openedge-product-notes/page/Known-issues-in-OpenEdge-12.8.1.html) [12.8](https://docs.progress.com/en-US/bundle/openedge-product-notes/page/Known-issues-in-OpenEdge-12.8.html) |
 | [12.7](https://docs.progress.com/bundle/openedge-whats-new/page/Whats-New-in-OpenEdge-12.7.html)  | [12.7](https://docs.progress.com/bundle/openedge-product-notes/page/Issues-fixed-in-OpenEdge-12.7.html) | [12.7](https://docs.progress.com/en-US/bundle/openedge-product-notes/page/Known-issues-in-OpenEdge-12.7.html) |
 | [12.6](https://docs.progress.com/bundle/openedge-whats-new/page/Whats-New-in-OpenEdge-12.6.html)  | [12.6](https://docs.progress.com/bundle/openedge-product-notes/page/Issues-fixed-in-OpenEdge-12.6.html) | [12.6](https://docs.progress.com/en-US/bundle/openedge-product-notes/page/Known-issues-in-OpenEdge-12.6.html) |
 | [12.5](https://docs.progress.com/bundle/openedge-whats-new/page/Whats-New-in-OpenEdge-12.5.html)  | [12.5](https://docs.progress.com/bundle/openedge-product-notes/page/Issues-fixed-in-OpenEdge-12.5.html) | [12.5](https://docs.progress.com/en-US/bundle/openedge-product-notes/page/Known-issues-in-OpenEdge-12.5.html) |
