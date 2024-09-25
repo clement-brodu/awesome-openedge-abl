@@ -24,13 +24,19 @@ If you think open source is a good idea, don't hesitate to recommend it to Progr
 - [BalticAmadeus/ProBro](https://github.com/BalticAmadeus/ProBro) - VSCode extension for Progress OpenEdge Database browsing
 - [BalticAmadeus/ProPeek](https://github.com/BalticAmadeus/ProPeek) - An extension for Progress Openedge Profiler.
 - [BalticAmadeus/AblFormatter](https://github.com/BalticAmadeus/AblFormatter) - VSCode extension for Progress OpenEdge code formatting.
+- [kenherring/ablunit-test-runner](https://github.com/kenherring/ablunit-test-runner) - VSCode Extension to integrate OpenEdge ABLUnit tests via the native API
+- [NickHeap/Ant Target Runner](https://github.com/NickHeap/vscode-ant) - Ant Target Runner for Visual Studio Code
+- [Riverside-Software/sonarlint-vscode](https://github.com/Riverside-Software/sonarlint-vscode/releases) - SonarLint for ABL in Visual Studio Code
+- [chriscamicas/vscode-abl](https://github.com/chriscamicas/vscode-abl) - Openedge plugin with Compiler, Debugger,... **[😴 inactive]**
+- [ezequielgandolfi/openedge-zext](https://github.com/ezequielgandolfi/openedge-zext) - Another Openedge plugin **[😴 inactive]**
 
-- [chriscamicas/vscode-abl](https://github.com/chriscamicas/vscode-abl) - Openedge plugin with Compiler, Debugger,... **[Depracated]**
-- [ezequielgandolfi/openedge-zext](https://github.com/ezequielgandolfi/openedge-zext) - Another Openedge plugin **[Depracated]**
+### dev containers
+
+- [bfv/openedge-devcontainer](https://github.com/bfv/openedge-devcontainer) - VSCode devcontainer for OpenEdge Proof of Concept 
 
 ### Notepad++
 
-- [3P : Progress Programmers Pal](http://jcaillon.github.io/3P/) - An OpenEdge ABL (formerly 4GL Progress) code editor / IDE running on notepad++
+- [3P : Progress Programmers Pal](http://jcaillon.github.io/3P/) - An OpenEdge ABL (formerly 4GL Progress) code editor / IDE running on notepad++ **[Depracated]**
 
 ## CI/CD
 
@@ -67,6 +73,8 @@ If you think open source is a good idea, don't hesitate to recommend it to Progr
 - [OpenedgeGradle](https://github.com/KiltedKanuck/OpenEdgeGradle) - OpenEdge GRADLE build demo
 - [SampleApp](https://github.com/KiltedKanuck/SampleApp) - Sample app for deploy
 - [OEDoc-sample](https://github.com/clement-brodu/OEdoc-sample) - Sample Documentation Site generated with ABLDuck
+- [pug2024OEDocker](https://github.com/lkieffer2002/pug2024OEDocker) - Material for a introduction to OpenEdge and Docker
+- [pug2024OTEL](https://github.com/rwdroge/pug2024OTEL) - EMEA PUG 2024 OpenEdge OpenTelemetry Workshop
 
 ## Openedge versions
 
