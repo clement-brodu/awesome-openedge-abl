@@ -49,6 +49,7 @@ If you think open source is a good idea, don't hesitate to recommend it to Progr
 - [log4oe](https://github.com/msabbott/log4oe) - Logging framework for OpenEdge ABL based on log4j **[😴 inactive]**
 - [Smart Component Library](https://www.consultingwerk.com/products/smartcomponent-library) - The OpenEdge modernization frameworg for Desktop, Web and Mobile by Consultingwerk **[$]**
 - [ProTop](https://wss.com/progress-openedge-monitoring-with-protop/) - Progress OpenEdge Monitoring tool by White Star Software **[$]**
+- [tree-sitter-abl](https://github.com/usagi-coffee/tree-sitter-abl) - Tree-sitter syntax parser for OpenEdge ABL
 
 ## Usefull resources
 
