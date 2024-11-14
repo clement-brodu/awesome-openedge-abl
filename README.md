@@ -60,6 +60,7 @@ If you think open source is a good idea, don't hesitate to recommend it to Progr
 - [Smart Component Library](https://www.consultingwerk.com/products/smartcomponent-library) - The OpenEdge modernization frameworg for Desktop, Web and Mobile by Consultingwerk **[$]**
 - [ProTop](https://wss.com/progress-openedge-monitoring-with-protop/) - Progress OpenEdge Monitoring tool by White Star Software **[$]**
 - [tree-sitter-abl](https://github.com/usagi-coffee/tree-sitter-abl) - Tree-sitter syntax parser for OpenEdge ABL
+- [Progress tools](http://progress-tools.x10.mx) - Collection of OpenEdge tools: Piew ABL code editor, PL plugin for Total Commander, r-code decompiler **[$]**, Xcode decrypter **[$]**
 
 ## Usefull resources
 
