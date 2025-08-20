@@ -27,6 +27,7 @@ If you think open source is a good idea, don't hesitate to recommend it to Progr
 - [kenherring/ablunit-test-runner](https://github.com/kenherring/ablunit-test-runner) - VSCode Extension to integrate OpenEdge ABLUnit tests via the native API
 - [NickHeap/Ant Target Runner](https://github.com/NickHeap/vscode-ant) - Ant Target Runner for Visual Studio Code
 - [Riverside-Software/sonarlint-vscode](https://github.com/Riverside-Software/sonarlint-vscode/releases) - SonarLint for ABL in Visual Studio Code
+- [OpenEdge ABL - OpenAPI](https://github.com/ai4you-io/openedge-abl-openapi) - Automatically fetch and refresh OpenAPI specs, ensuring your code remains aligned with the latest definitions.
 - [chriscamicas/vscode-abl](https://github.com/chriscamicas/vscode-abl) - Openedge plugin with Compiler, Debugger,... **[😴 inactive]**
 - [ezequielgandolfi/openedge-zext](https://github.com/ezequielgandolfi/openedge-zext) - Another Openedge plugin **[😴 inactive]**
 
