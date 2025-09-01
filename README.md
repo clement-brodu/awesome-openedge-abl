@@ -37,14 +37,14 @@ If you think open source is a good idea, don't hesitate to recommend it to Progr
 
 ### Notepad++
 
-- [3P : Progress Programmers Pal](http://jcaillon.github.io/3P/) - An OpenEdge ABL (formerly 4GL Progress) code editor / IDE running on notepad++ **[Depracated]**
+- [3P : Progress Programmers Pal](http://jcaillon.github.io/3P/) - An OpenEdge ABL (formerly 4GL Progress) code editor / IDE running on notepad++ **[Deprecated]**
 
 ## CI/CD
 
 - [PCT](https://github.com/Riverside-Software/pct) - A set of Ant tasks for the OpenEdge environment, you should/must use it !
 - [PCTTools](https://github.com/clement-brodu/PCTTools) - Library to provide additional tools to PCT 
 - [ABLDuck](https://github.com/spazzymoto/ablduck) OpenEdge automated documentation generation based on JSDuck (can be used with PCT)
-- [latte](https://github.com/progress/latte) - Open Source Gradle Plugin (forked from [grabl](https://gitlab.com/grabl/grabl)) to build openedge project, based on PCT **[Depracated]**
+- [latte](https://github.com/progress/latte) - Open Source Gradle Plugin (forked from [grabl](https://gitlab.com/grabl/grabl)) to build openedge project, based on PCT **[Deprecated]**
 - [OEDF](https://community.progress.com/s/question/0D54Q00008JWqzR/introducing-openedge-devops-framework-10) - Non Open Source fork of latte 😡, developed by Progress. **[Proprietary] [Free]**
 
 ## Tools and libraries
