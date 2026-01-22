@@ -39,6 +39,9 @@ If you think open source is a good idea, don't hesitate to recommend it to Progr
 
 - [3P : Progress Programmers Pal](http://jcaillon.github.io/3P/) - An OpenEdge ABL (formerly 4GL Progress) code editor / IDE running on notepad++ **[Deprecated]**
 
+### Zed
+- [usagi-coffee/zed-openedge-abl](https://github.com/usagi-coffee/zed-openedge-abl) - Zed extension for OpenEdge ABL language support.
+
 ## CI/CD
 
 - [PCT](https://github.com/Riverside-Software/pct) - A set of Ant tasks for the OpenEdge environment, you should/must use it !
