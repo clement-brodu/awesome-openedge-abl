@@ -28,6 +28,7 @@ If you think open source is a good idea, don't hesitate to recommend it to Progr
 - [NickHeap/Ant Target Runner](https://github.com/NickHeap/vscode-ant) - Ant Target Runner for Visual Studio Code
 - [Riverside-Software/sonarlint-vscode](https://github.com/Riverside-Software/sonarlint-vscode/releases) - SonarLint for ABL in Visual Studio Code
 - [OpenEdge ABL - OpenAPI](https://github.com/ai4you-io/openedge-abl-openapi) - Automatically fetch and refresh OpenAPI specs, ensuring your code remains aligned with the latest definitions.
+- [usagi-coffee/vscode-openedge-abl](https://github.com/usagi-coffee/vscode-openedge-abl) - VSCode extension for OpenEdge ABL language support.
 - [chriscamicas/vscode-abl](https://github.com/chriscamicas/vscode-abl) - Openedge plugin with Compiler, Debugger,... **[😴 inactive]**
 - [ezequielgandolfi/openedge-zext](https://github.com/ezequielgandolfi/openedge-zext) - Another Openedge plugin **[😴 inactive]**
 
@@ -63,7 +64,9 @@ If you think open source is a good idea, don't hesitate to recommend it to Progr
 - [log4oe](https://github.com/msabbott/log4oe) - Logging framework for OpenEdge ABL based on log4j **[😴 inactive]**
 - [Smart Component Library](https://www.consultingwerk.com/products/smartcomponent-library) - The OpenEdge modernization frameworg for Desktop, Web and Mobile by Consultingwerk **[$]**
 - [ProTop](https://wss.com/progress-openedge-monitoring-with-protop/) - Progress OpenEdge Monitoring tool by White Star Software **[$]**
-- [tree-sitter-abl](https://github.com/usagi-coffee/tree-sitter-abl) - Tree-sitter syntax parser for OpenEdge ABL
+- [usagi-coffee/tree-sitter-abl](https://github.com/usagi-coffee/tree-sitter-abl) - Tree-sitter grammar for OpenEdge ABL
+- [usagi-coffee/tree-sitter-df](https://github.com/usagi-coffee/tree-sitter-df) - Tree-sitter grammar for OpenEdge Data Definition Files.
+- [usagi-coffee/abl-language-server](https://github.com/usagi-coffee/abl-language-server) - Rust language server protocol (LSP) implementation for ABL.
 - [Progress tools](http://progress-tools.x10.mx) - Collection of OpenEdge tools: Piew ABL code editor, PL plugin for Total Commander, r-code decompiler **[$]**, Xcode decrypter **[$]**
 
 ## Usefull resources
