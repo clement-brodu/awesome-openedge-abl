@@ -68,6 +68,7 @@ If you think open source is a good idea, don't hesitate to recommend it to Progr
 - [usagi-coffee/tree-sitter-df](https://github.com/usagi-coffee/tree-sitter-df) - Tree-sitter grammar for OpenEdge Data Definition Files.
 - [usagi-coffee/abl-language-server](https://github.com/usagi-coffee/abl-language-server) - Rust language server protocol (LSP) implementation for ABL.
 - [Progress tools](http://progress-tools.x10.mx) - Collection of OpenEdge tools: Piew ABL code editor, PL plugin for Total Commander, r-code decompiler **[$]**, Xcode decrypter **[$]**
+- [Iceberg](https://github.com/progress/iceberg) - A collection of code, utilities, and guides from real-world customer engagements.
 
 ## Usefull resources
 
