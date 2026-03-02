@@ -62,7 +62,7 @@ If you think open source is a good idea, don't hesitate to recommend it to Progr
 - [OEUnit](https://github.com/CameronWills/OEUnit) - Unit testing framework for OpenEdge ABL before the ABLUnit **[😴 inactive]**
 - [OEMock](https://github.com/msabbott/OEMock) - Create mock for test with OEUnit **[😴 inactive]**
 - [log4oe](https://github.com/msabbott/log4oe) - Logging framework for OpenEdge ABL based on log4j **[😴 inactive]**
-- [Smart Component Library](https://www.consultingwerk.com/products/smartcomponent-library) - The OpenEdge modernization frameworg for Desktop, Web and Mobile by Consultingwerk **[$]**
+- [SmartComponent Library](https://www.consultingwerk.com/products/smartcomponent-library) - The OpenEdge modernization frameworg for Desktop, Web and Mobile by Consultingwerk **[$]**
 - [ProTop](https://wss.com/progress-openedge-monitoring-with-protop/) - Progress OpenEdge Monitoring tool by White Star Software **[$]**
 - [usagi-coffee/tree-sitter-abl](https://github.com/usagi-coffee/tree-sitter-abl) - Tree-sitter grammar for OpenEdge ABL
 - [usagi-coffee/tree-sitter-df](https://github.com/usagi-coffee/tree-sitter-df) - Tree-sitter grammar for OpenEdge Data Definition Files.
@@ -73,7 +73,7 @@ If you think open source is a good idea, don't hesitate to recommend it to Progr
 ## Usefull resources
 
 - [ADE-SourceCode](https://github.com/consultingwerk/ADE-Sourcecode) - Progress OpenEdge ADE Sourcecode uploaded by Consultingwerk 👍 (shouldn't that be done by Progress ? 😩)
-- [Smart Component Library Documentation](https://www.consultingwerk.com/support/documentation) - Documentation of Smart Component Library (Jira, Class documentation...)
+- [SmartComponent Library Documentation](https://www.consultingwerk.com/support/documentation) - Documentation of SmartComponent Library (Jira, Class documentation...)
 
 ## Other
 
