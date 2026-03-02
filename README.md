@@ -31,8 +31,8 @@ If you think open source is a good idea, don't hesitate to recommend it to Progr
 - [usagi-coffee/vscode-openedge-abl](https://github.com/usagi-coffee/vscode-openedge-abl) - VSCode extension for OpenEdge ABL language support.
 - [chriscamicas/vscode-abl](https://github.com/chriscamicas/vscode-abl) - Openedge plugin with Compiler, Debugger,... **[😴 inactive]**
 - [ezequielgandolfi/openedge-zext](https://github.com/ezequielgandolfi/openedge-zext) - Another Openedge plugin **[😴 inactive]**
-- [consultingwerk/OpenEdge ABL Class Browser](https://marketplace.visualstudio.com/itemsitemName=ConsultingwerkApplicationModernizationSolutionsLtd.classbrowser) - VSCode extension to browse and explore OpenEdge ABL classes and their structure.
-- [consultingwerk/PASOE Manager Extension](https://marketplace.visualstudio.com/itemsitemName=ConsultingwerkApplicationModernizationSolutionsLtd.oemanager) - VSCode extension to manage Progress Application Server for OpenEdge (PASOE) instances and sessions in Visual Studio Code.
+- [consultingwerk/OpenEdge ABL Class Browser](https://marketplace.visualstudio.com/items?itemName=ConsultingwerkApplicationModernizationSolutionsLtd.classbrowser) - VSCode extension to browse and explore OpenEdge ABL classes and their structure.
+- [consultingwerk/PASOE Manager Extension](https://marketplace.visualstudio.com/items?itemName=ConsultingwerkApplicationModernizationSolutionsLtd.oemanager) - VSCode extension to manage Progress Application Server for OpenEdge (PASOE) instances and sessions in Visual Studio Code.
 
 ### dev containers
 
